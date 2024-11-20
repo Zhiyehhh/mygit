@@ -1,0 +1,1 @@
+task:train YOLOv11 on VisDrone database
